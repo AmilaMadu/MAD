@@ -1,0 +1,23 @@
+# Gradle files
+.gradle/
+build/
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+.DS_Store
+
+# Kotlin debug files
+*.kotlin_metadata
+
+# Gradle caches
+.cxx/
+.caches/
+
+# Android build files
+app/build/
+
+# Firebase / Google services cache
+**/google-services.json
+**/firebase.json
